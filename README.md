@@ -11,4 +11,4 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 
 | # | Title | Source Code |  Difficulty | Time | Solved|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1|[ 两数之和 ](https://leetcode-cn.com/problems/two-sum/submissions/)|[Java](https://github.com/BlackSpaceGZY/LeetCode_Master/blob/master/Code/1.py)|Easy|2019/11/1| Y |
+|1|[ 两数之和 ](https://leetcode-cn.com/problems/two-sum/submissions/)|[Python](https://github.com/BlackSpaceGZY/LeetCode_Master/blob/master/Code/1.py)|Easy|2019/11/1| Y |
