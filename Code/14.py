@@ -24,7 +24,3 @@ class Solution:
     			break
     	strs += str1[:index]
     	return strs
-
-
-s = Solution()
-print(s.longestCommonPrefix([]))
