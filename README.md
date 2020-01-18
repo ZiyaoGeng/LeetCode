@@ -80,7 +80,8 @@ def reverse(l: ListNode) -> ListNode:
 |  13  | [罗马数字转整数](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/13.md) |       哈希表       | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/13.py) |    Easy    | 2020/1/17 |   Y    |
 |  14  | [最长公共前缀](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/14.md) |      分治算法      | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/14.py) |    Easy    | 2020/1/18 |   Y    |
 |  20  | [有效的括号](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/20.md) |     栈、哈希表     | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/20.py) |    Easy    | 2020/1/18 |   Y    |
-|  21  | [合并两个有序链表](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/21.md) |       单链表       | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/21.py) |    Easy    | 2020/1/18 |   Y    |
+|  21  | [合并两个有序链表](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/21.md) |    单链表、递归    | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/21.py) |    Easy    | 2020/1/18 |   Y    |
+|  26  | [删除排序数组中的重复项](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/26.md) |       双指针       | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/26.py) |    Easy    | 2020/1/18 |   Y    |
 
 
 
