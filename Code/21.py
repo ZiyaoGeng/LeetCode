@@ -15,13 +15,5 @@ class Solution:
     			r.next = q
     			q = q.next
     		r = r.next
-    	if q != None:
-    		p = q
-    	r.next = p
+    	r.next = p if p != None else q
     	return l.next
-
-s = Solution()
-l1 = create_list([])
-l2 = create_list([1, 3, 4])
-l = s.mergeTwoLists(l1, l2)
-print_list_val(l)
