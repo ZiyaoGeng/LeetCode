@@ -84,6 +84,7 @@ def reverse(l: ListNode) -> ListNode:
 |  26  | [删除排序数组中的重复项](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/26.md) |       双指针       | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/26.py) |    Easy    | 2020/1/18 |   Y    |
 |  27  | [移除元素](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/26.md) |       双指针       | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/27.py) |    Easy    | 2020/1/19 |   Y    |
 |  35  | [搜索插入位置](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/26.md) |      二分查找      | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/35.py) |    Easy    | 2020/1/19 |   Y    |
+|  38  | [外观数列](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/38.md) |        递归        | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/38.py) |    Easy    | 2020/1/19 |   Y    |
 
 
 
