@@ -8,7 +8,7 @@ class Solution:
 				nums[i] += nums[i - 1]
 			max_sum = max(max_sum, nums[i])
 		return max_sum
-		
+	
     def maxSubArray(self, nums: List[int]) -> int:
     	if len(nums) == 0:
     		return 0

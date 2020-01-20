@@ -10,7 +10,7 @@
 
 
 
-### 相关类或函数
+### Debug：相关类或函数
 
 因为使用Sublime作为编辑器，故没有调试功能，自己写了一些类或函数方便调用进行调试；
 
@@ -67,6 +67,13 @@ def reverse(l: ListNode) -> ListNode:
 
 
 
+### Python包：特殊的函数
+
+1. **ord()**，它以一个字符（长度为1的字符串）作为参数，返回对应的 ASCII 数值；
+2. str = **str.rstrip()**，去除字符串右端的空格；
+
+
+
 ### 列表
 
 | # | Title | Type | Source Code |  Difficulty | Time | Solved |
@@ -87,6 +94,7 @@ def reverse(l: ListNode) -> ListNode:
 |  35  | [搜索插入位置](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/26.md) |        二分查找        | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/35.py) |    Easy    | 2020/1/19 |   Y    |
 |  38  | [外观数列](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/38.md) |          递归          | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/38.py) |    Easy    | 2020/1/19 |   Y    |
 |  53  | [最大子序和](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/53.md) | 分治算法、**动态规划** | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/53.py) |    Easy    | 2020/1/20 |   Y    |
+|  58  | [最后一个单词的长度](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/58.md) |         字符串         | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/58.py) |    Easy    | 2020/1/20 |   Y    |
 
 
 
