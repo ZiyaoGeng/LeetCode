@@ -80,7 +80,7 @@ def reverse(l: ListNode) -> ListNode:
 |:---:|:---:|:---:|:---:|:---:|:---:|-----|
 |1|[ 两数之和 ](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/1.md)|哈希表|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/1.py)|Easy|2020/1/17|Y|
 |2|[ 两数相加 ](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/2.md)|单链表、数学|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/2.py)|Medium|2020/1/17|Y|
-|3|[  无重复字符的最长子串 ](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/3.md)|Sliding Window|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/3.py)|Medium|2020/1/17|Y|
+|3|[  无重复字符的最长子串 ](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/3.md)|滑动窗口|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/3.py)|Medium|2020/1/17|Y|
 |4|[  寻找两个有序数组的中位数 ](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/submissions/)|二分查找、分治算法|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/4.py)|Hard|2019/11/4|N|
 |7|[整数反转](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/7.md)|数学|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/7.py)|Easy|2020/1/17|Y|
 |9|[回文数](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/9.md)|数学|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/9.py)|Easy|2020/1/17|Y|
@@ -94,7 +94,7 @@ def reverse(l: ListNode) -> ListNode:
 |  35  | [搜索插入位置](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/26.md) |        二分查找        | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/35.py) |    Easy    | 2020/1/19 |   Y    |
 |  38  | [外观数列](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/38.md) |          递归          | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/38.py) |    Easy    | 2020/1/19 |   Y    |
 |  53  | [最大子序和](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/53.md) | 分治算法、**动态规划** | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/53.py) |    Easy    | 2020/1/20 |   Y    |
-|  58  | [最后一个单词的长度](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/58.md) |         字符串         | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/58.py) |    Easy    | 2020/1/20 |   Y    |
+|  58  | [最后一个单词的长度](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/58.md) |       **字符串**       | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/58.py) |    Easy    | 2020/1/20 |   Y    |
 
 
 
