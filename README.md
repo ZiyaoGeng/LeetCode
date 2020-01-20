@@ -108,6 +108,7 @@ from singly_linked_list import ListNode
 |  66  | [加一](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/66.md) |          逻辑          | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/66.py) |    Easy    | 2020/1/20 |   Y    |
 |  70  | [爬楼梯](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/70.md) |   斐波那契、动态规划   | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/70.py) |    Easy    | 2020/1/20 |   Y    |
 |  83  | [删除排序链表中的重复元素](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/83.md) |         单链表         | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/83.py) |    Easy    | 2020/1/20 |   Y    |
+|  88  | [合并两个有序数组](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/88.md) |         双指针         | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/88.py) |    Easy    | 2020/1/20 |   Y    |
 
 
 
