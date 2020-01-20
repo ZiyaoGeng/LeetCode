@@ -95,6 +95,8 @@ def reverse(l: ListNode) -> ListNode:
 |  38  | [外观数列](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/38.md) |          递归          | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/38.py) |    Easy    | 2020/1/19 |   Y    |
 |  53  | [最大子序和](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/53.md) | 分治算法、**动态规划** | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/53.py) |    Easy    | 2020/1/20 |   Y    |
 |  58  | [最后一个单词的长度](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/58.md) |       **字符串**       | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/58.py) |    Easy    | 2020/1/20 |   Y    |
+|  66  | [加一](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/66.md) |          逻辑          | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/66.py) |    Easy    | 2020/1/20 |   Y    |
+|  70  | [爬楼梯](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/70.md) |          数组          | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/70.py) |    Easy    | 2020/1/20 |   Y    |
 
 
 
