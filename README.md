@@ -109,7 +109,7 @@ from singly_linked_list import ListNode
 |2|[ 两数相加 ](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/2.md)|单链表、数学|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/2.py)|Medium|2020/1/17|Y|
 |3|[  无重复字符的最长子串 ](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/3.md)|滑动窗口|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/3.py)|Medium|2020/1/17|Y|
 |4|[  寻找两个有序数组的中位数 ](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/submissions/)|二分查找、分治算法|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/4.py)|Hard|2019/11/4|N|
-|6|[Z字形变换](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/6.md)|字符串|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/6.py)|Medium|2019/1/21|Y|
+|6|[Z字形变换](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/6.md)|字符串|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/6.py)|Medium|2020/1/21|Y|
 |7|[整数反转](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/7.md)|数学|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/7.py)|Easy|2020/1/17|Y|
 |9|[回文数](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/9.md)|数学|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/9.py)|Easy|2020/1/17|Y|
 |12|[整数转罗马数字](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/12.md)|字符串、哈希表|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/12.py)|Medium|2020/1/21|Y|
