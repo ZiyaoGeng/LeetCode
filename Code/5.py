@@ -1,29 +1,21 @@
 
-"""
-最长回文子串
-解题思路:
-考虑两种回文子串的情况
-"""
 class Solution:
-	def judge(self, j, k, s, max_start, max_end):
-		while j >= 0 and k < len(s) and s[j] == s[k]:
-    			j -= 1
-    			k += 1
-		if k - j - 1 > max_end - max_start:
-			max_start = j + 1
-			max_end = k
-		return max_start, max_end
+	def judge(self, s: str, maxPal: str, i: int, j: int) -> str:
+		while i >= 0 and j < len(s) and s[i] == s[j]:
+			i -= 1
+			j += 1
+		if len(maxPal) < j - i - 1:
+			maxPal = s[i + 1 : j]
+		return maxPal
 
 	def longestPalindrome(self, s: str) -> str:
-		lens = len(s)
-		max_start, max_end = 0, 1
-		for i in range(lens):
-			j, k = i, i + 1
-			max_start, max_end = self.judge(j, k, s, max_start, max_end)
-			j, k = i - 1, i + 1
-			max_start, max_end = self.judge(j, k, s, max_start, max_end)
-		return s[max_start:max_end]
+		if len(s) == 0 or len(s) == 1:
+			return s
+		maxPal = ""
+		for k in range(1, len(s)):
+			maxPal = self.judge(s, maxPal, k - 1, k + 1)
+			if s[k] == s[k-1]:
+				maxPal = self.judge(s, maxPal, k - 1, k)
+		return maxPal
 
-s = Solution()
-print(s.longestPalindrome('cbbd'))
 
