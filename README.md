@@ -106,37 +106,37 @@ from singly_linked_list import ListNode
 
 | # | Title | Type | Source Code |  Difficulty | Time | Solved |
 |:---:|:---:|:---:|:---:|:---:|:---:|-----|
-|1|[ 两数之和 ](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/1.md)|哈希表|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/1.py)|Easy|2020/1/17|Y|
-|2|[ 两数相加 ](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/2.md)|单链表、数学|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/2.py)|Medium|2020/1/17|Y|
-|3|[  无重复字符的最长子串 ](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/3.md)|滑动窗口|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/3.py)|Medium|2020/1/17|Y|
-|4|[  寻找两个有序数组的中位数 ](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/submissions/)|二分查找、分治算法|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/4.py)|Hard|2019/11/4|N|
-|5|[最长回文子串](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/5.md)|字符串|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/5.py)|Medium|2020/1/22|Y|
-|6|[Z字形变换](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/6.md)|字符串|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/6.py)|Medium|2020/1/21|Y|
-|7|[整数反转](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/7.md)|数学|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/7.py)|Easy|2020/1/17|Y|
-|8|[字符串转整数(atoi)](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/8.md)|数学、字符串、**正则表达式**|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/8.py)|Medium|2020/1/22|Y|
-|9|[回文数](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/9.md)|数学|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/9.py)|Easy|2020/1/17|Y|
-|11|[盛最多水的容器](./idea/11.md)|双指针|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/11.py)|Medium|2020/1/23|Y|
-|12|[整数转罗马数字](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/12.md)|字符串、哈希表|[Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/12.py)|Medium|2020/1/21|Y|
-|  13  | [罗马数字转整数](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/13.md) |            哈希表            | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/13.py) |    Easy    | 2020/1/17 |   Y    |
-|  14  | [最长公共前缀](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/14.md) |           分治算法           | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/14.py) |    Easy    | 2020/1/18 |   Y    |
-|  17  | [电话号码的字母组合](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/17.md) |         字符串、DFS          | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/17.py) |   Medium   | 2020/1/23 |   Y    |
-|  19  | [删除链表的倒数第N个节点](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/19.md) |            单链表            | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/19.py) |   Medium   | 2020/1/23 |   Y    |
-|  20  | [有效的括号](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/20.md) |          栈、哈希表          | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/20.py) |    Easy    | 2020/1/18 |   Y    |
-|  21  | [合并两个有序链表](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/21.md) |         单链表、递归         | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/21.py) |    Easy    | 2020/1/18 |   Y    |
-|  26  | [删除排序数组中的重复项](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/26.md) |            双指针            | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/26.py) |    Easy    | 2020/1/18 |   Y    |
-|  27  | [移除元素](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/27.md) |            双指针            | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/27.py) |    Easy    | 2020/1/19 |   Y    |
-|  28  | [实现strStr\(\)](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/28.md) |           **KMP**            | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/28.py) |    Easy    | 2020/1/19 |   Y    |
-|  35  | [搜索插入位置](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/26.md) |           二分查找           | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/35.py) |    Easy    | 2020/1/19 |   Y    |
-|  38  | [外观数列](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/38.md) |             递归             | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/38.py) |    Easy    | 2020/1/19 |   Y    |
-|  53  | [最大子序和](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/53.md) |    分治算法、**动态规划**    | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/53.py) |    Easy    | 2020/1/20 |   Y    |
-|  58  | [最后一个单词的长度](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/58.md) |          **字符串**          | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/58.py) |    Easy    | 2020/1/20 |   Y    |
-|  66  | [加一](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/66.md) |             逻辑             | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/66.py) |    Easy    | 2020/1/20 |   Y    |
-|  67  | [二进制求和](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/66.md) |            双指针            | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/67.py) |    Easy    | 2020/1/20 |   Y    |
-|  69  | [x的平方根](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/69.md) |     二分查找、**牛顿法**     | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/69.py) |    Easy    | 2020/1/21 |   Y    |
-|  70  | [爬楼梯](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/70.md) |      斐波那契、动态规划      | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/70.py) |    Easy    | 2020/1/20 |   Y    |
-|  83  | [删除排序链表中的重复元素](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/83.md) |            单链表            | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/83.py) |    Easy    | 2020/1/20 |   Y    |
-|  88  | [合并两个有序数组](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/88.md) |            双指针            | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/88.py) |    Easy    | 2020/1/20 |   Y    |
-| 100  | [相同的树](https://github.com/BlackSpaceGZY/LeetCode/blob/master/idea/88.md) |            二叉树            | [Python](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/100.py) |    Easy    | 2020/1/20 |   Y    |
+|1|[ 两数之和 ](./idea/1.md)|哈希表|[Python](./Code/1.py)|Easy|2020/1/17|Y|
+|2|[ 两数相加 ](./idea/2.md)|单链表、数学|[Python](./Code/2.py)|Medium|2020/1/17|Y|
+|3|[  无重复字符的最长子串 ](./idea/3.md)|滑动窗口|[Python](./Code/3.py)|Medium|2020/1/17|Y|
+|4|[  寻找两个有序数组的中位数 ](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/submissions/)|二分查找、分治算法|[Python](./Code/4.py)|Hard|2019/11/4|N|
+|5|[最长回文子串](./idea/5.md)|字符串|[Python](./Code/5.py)|Medium|2020/1/22|Y|
+|6|[Z字形变换](./idea/6.md)|字符串|[Python](./Code/6.py)|Medium|2020/1/21|Y|
+|7|[整数反转](./idea/7.md)|数学|[Python](./Code/7.py)|Easy|2020/1/17|Y|
+|8|[字符串转整数(atoi)](./idea/8.md)|数学、字符串、**正则表达式**|[Python](./Code/8.py)|Medium|2020/1/22|Y|
+|9|[回文数](./idea/9.md)|数学|[Python](./Code/9.py)|Easy|2020/1/17|Y|
+|11|[盛最多水的容器](./idea/11.md)|双指针|[Python](./Code/11.py)|Medium|2020/1/23|Y|
+|12|[整数转罗马数字](./idea/12.md)|字符串、哈希表|[Python](./Code/12.py)|Medium|2020/1/21|Y|
+|  13  |                [罗马数字转整数](./idea/13.md)                |            哈希表            | [Python](./Code/13.py)  |    Easy    | 2020/1/17 |   Y    |
+|  14  |                 [最长公共前缀](./idea/14.md)                 |           分治算法           | [Python](./Code/14.py)  |    Easy    | 2020/1/18 |   Y    |
+|  17  |              [电话号码的字母组合](./idea/17.md)              |         字符串、DFS          | [Python](./Code/17.py)  |   Medium   | 2020/1/23 |   Y    |
+|  19  |           [删除链表的倒数第N个节点](./idea/19.md)            |            单链表            | [Python](./Code/19.py)  |   Medium   | 2020/1/23 |   Y    |
+|  20  |                  [有效的括号](./idea/20.md)                  |          栈、哈希表          | [Python](./Code/20.py)  |    Easy    | 2020/1/18 |   Y    |
+|  21  |               [合并两个有序链表](./idea/21.md)               |         单链表、递归         | [Python](./Code/21.py)  |    Easy    | 2020/1/18 |   Y    |
+|  26  |            [删除排序数组中的重复项](./idea/26.md)            |            双指针            | [Python](./Code/26.py)  |    Easy    | 2020/1/18 |   Y    |
+|  27  |                   [移除元素](./idea/27.md)                   |            双指针            | [Python](./Code/27.py)  |    Easy    | 2020/1/19 |   Y    |
+|  28  |                [实现strStr\(\)](./idea/28.md)                |           **KMP**            | [Python](./Code/28.py)  |    Easy    | 2020/1/19 |   Y    |
+|  35  |                 [搜索插入位置](./idea/26.md)                 |           二分查找           | [Python](./Code/35.py)  |    Easy    | 2020/1/19 |   Y    |
+|  38  |                   [外观数列](./idea/38.md)                   |             递归             | [Python](./Code/38.py)  |    Easy    | 2020/1/19 |   Y    |
+|  53  |                  [最大子序和](./idea/53.md)                  |    分治算法、**动态规划**    | [Python](./Code/53.py)  |    Easy    | 2020/1/20 |   Y    |
+|  58  |              [最后一个单词的长度](./idea/58.md)              |          **字符串**          | [Python](./Code/58.py)  |    Easy    | 2020/1/20 |   Y    |
+|  66  |                     [加一](./idea/66.md)                     |             逻辑             | [Python](./Code/66.py)  |    Easy    | 2020/1/20 |   Y    |
+|  67  |                  [二进制求和](./idea/66.md)                  |            双指针            | [Python](./Code/67.py)  |    Easy    | 2020/1/20 |   Y    |
+|  69  |                  [x的平方根](./idea/69.md)                   |     二分查找、**牛顿法**     | [Python](./Code/69.py)  |    Easy    | 2020/1/21 |   Y    |
+|  70  |                    [爬楼梯](./idea/70.md)                    |      斐波那契、动态规划      | [Python](./Code/70.py)  |    Easy    | 2020/1/20 |   Y    |
+|  83  |           [删除排序链表中的重复元素](./idea/83.md)           |            单链表            | [Python](./Code/83.py)  |    Easy    | 2020/1/20 |   Y    |
+|  88  |               [合并两个有序数组](./idea/88.md)               |            双指针            | [Python](./Code/88.py)  |    Easy    | 2020/1/20 |   Y    |
+| 100  |                   [相同的树](./idea/88.md)                   |            二叉树            | [Python](./Code/100.py) |    Easy    | 2020/1/20 |   Y    |
 
 
 
