@@ -14,3 +14,4 @@ class Solution:
     	if abs(int(str[:k])) > pow(2, 31) - 1:
     		return - pow(2, 31) if str[0] == '-' else pow(2, 31) - 1
     	return int(str[:k])
+
