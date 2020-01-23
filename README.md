@@ -105,7 +105,7 @@ from singly_linked_list import ListNode
 ### 列表
 
 | # | Title | Type | Source Code |  Difficulty | Time | Solved |
-|:---:|:---:|:---:|:---:|:---:|:---:|-----|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|[ 两数之和 ](./idea/1.md)|哈希表|[Python](./Code/1.py)|Easy|2020/1/17|Y|
 |2|[ 两数相加 ](./idea/2.md)|单链表、数学|[Python](./Code/2.py)|Medium|2020/1/17|Y|
 |3|[  无重复字符的最长子串 ](./idea/3.md)|滑动窗口|[Python](./Code/3.py)|Medium|2020/1/17|Y|
