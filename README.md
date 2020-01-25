@@ -122,6 +122,7 @@ from singly_linked_list import ListNode
 |  15  |                   [三数之和](./idea/15.md)                   |         数组、双指针         | [Python](./Code/15.py)  |   Medium   | 2020/1/24 |   N    |
 |  16  |               [最接近的三数之和](./idea/16.md)               |         数组、双指针         | [Python](./Code/16.py)  |   Medium   | 2020/1/25 |   Y    |
 |  17  |              [电话号码的字母组合](./idea/17.md)              |         字符串、DFS          | [Python](./Code/17.py)  |   Medium   | 2020/1/23 |   Y    |
+|  18  |                   [四数之和](./idea/18.md)                   |         数组、双指针         | [Python](./Code/18.py)  |   Medium   | 2020/1/25 |   Y    |
 |  19  |           [删除链表的倒数第N个节点](./idea/19.md)            |            单链表            | [Python](./Code/19.py)  |   Medium   | 2020/1/23 |   Y    |
 |  20  |                  [有效的括号](./idea/20.md)                  |          栈、哈希表          | [Python](./Code/20.py)  |    Easy    | 2020/1/18 |   Y    |
 |  21  |               [合并两个有序链表](./idea/21.md)               |         单链表、递归         | [Python](./Code/21.py)  |    Easy    | 2020/1/18 |   Y    |

@@ -7,6 +7,10 @@ class Solution:
     	for i in range(len(nums)-2):
     		if i > 0 and nums[i] == nums[i-1]:
     			continue
+    		if nums[i] + nums[i+1] + nums[i+2] > 0:
+    			break
+    		if nums[i] + nums[len(nums)-1] + nums[len(nums)-2] < 0:
+    			continue
     		l, r = i + 1, len(nums) - 1
     		while l < r:
     			if nums[i] + nums[l] + nums[r] == 0:
