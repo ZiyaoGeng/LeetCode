@@ -127,6 +127,7 @@ from singly_linked_list import ListNode
 |  20  |                  [有效的括号](./idea/20.md)                  |          栈、哈希表          | [Python](./Code/20.py)  |    Easy    | 2020/1/18 |   Y    |
 |  21  |               [合并两个有序链表](./idea/21.md)               |         单链表、递归         | [Python](./Code/21.py)  |    Easy    | 2020/1/18 |   Y    |
 |  22  |                   [括号生成](./idea/22.md)                   |         字符串、DFS          | [Python](./Code/22.py)  |   Medium   | 2020/1/25 |   Y    |
+|  24  |             [两两交换链表中的节点](./idea/24.md)             |            单链表            | [Python](./Code/24.py)  |   Medium   | 2020/1/25 |   Y    |
 |  26  |            [删除排序数组中的重复项](./idea/26.md)            |            双指针            | [Python](./Code/26.py)  |    Easy    | 2020/1/18 |   Y    |
 |  27  |                   [移除元素](./idea/27.md)                   |            双指针            | [Python](./Code/27.py)  |    Easy    | 2020/1/19 |   Y    |
 |  28  |                [实现strStr\(\)](./idea/28.md)                |           **KMP**            | [Python](./Code/28.py)  |    Easy    | 2020/1/19 |   Y    |
