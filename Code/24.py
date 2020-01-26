@@ -16,5 +16,5 @@ class Solution:
     		p.next = r
     		p = p.next.next
     		q = q.next
-    	return l.next
+    	return l.nextjiao
 

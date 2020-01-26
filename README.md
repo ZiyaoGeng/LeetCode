@@ -131,6 +131,7 @@ from singly_linked_list import ListNode
 |  26  |            [删除排序数组中的重复项](./idea/26.md)            |            双指针            | [Python](./Code/26.py)  |    Easy    | 2020/1/18 |   Y    |
 |  27  |                   [移除元素](./idea/27.md)                   |            双指针            | [Python](./Code/27.py)  |    Easy    | 2020/1/19 |   Y    |
 |  28  |                [实现strStr\(\)](./idea/28.md)                |           **KMP**            | [Python](./Code/28.py)  |    Easy    | 2020/1/19 |   Y    |
+| 29 | [两数相除](./idea/29.md) | 数学 | [Python](./Code/29.py) | Medium | 2020/1/26 | Y |
 |  35  |                 [搜索插入位置](./idea/26.md)                 |           二分查找           | [Python](./Code/35.py)  |    Easy    | 2020/1/19 |   Y    |
 |  38  |                   [外观数列](./idea/38.md)                   |             递归             | [Python](./Code/38.py)  |    Easy    | 2020/1/19 |   Y    |
 |  53  |                  [最大子序和](./idea/53.md)                  |    分治算法、**动态规划**    | [Python](./Code/53.py)  |    Easy    | 2020/1/20 |   Y    |
