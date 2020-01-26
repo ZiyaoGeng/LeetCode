@@ -9,8 +9,8 @@ class Solution:
     		while dividend - num >= 0:
     			count += add
     			dividend -= num
-    			num += num
-    			add += add
+    			num = num << 1
+    			add = add << 1
     		if dividend - divisor >= 0:
     			add = 1
     			num = divisor
@@ -19,3 +19,6 @@ class Solution:
     	if count == 1 << 31 and flag > 0:
     		count -= 1
     	return count * flag
+
+s = Solution()
+print(s.divide(-2147483648,4))
