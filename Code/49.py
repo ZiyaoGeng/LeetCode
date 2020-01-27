@@ -10,7 +10,3 @@ class Solution:
     		else:
     			hashmap[ss].append(s)
     	return hashmap.values()
-
-
-s = Solution()
-print(s.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))

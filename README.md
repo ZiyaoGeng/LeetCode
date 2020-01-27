@@ -136,6 +136,7 @@ from singly_linked_list import ListNode
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](./idea/34.md) | 二分查找 | [Python](./Code/34.py) | Medium | 2020/1/26 | Y |
 |  35  |                 [搜索插入位置](./idea/26.md)                 |           二分查找           | [Python](./Code/35.py)  |    Easy    | 2020/1/19 |   Y    |
 |  38  |                   [外观数列](./idea/38.md)                   |             递归             | [Python](./Code/38.py)  |    Easy    | 2020/1/19 |   Y    |
+| 43 | [字符串相乘](./idea/43.md) | 字符串 | [Python](./Code/43.py) | Medium | 2020/1/27 | Y |
 | 49 | [字母异位词分组](./idea/49.md) | 哈希表 | [Python](./Code/49.py) | Medium | 2020/1/27 | Y |
 |  53  |                  [最大子序和](./idea/53.md)                  |    分治算法、**动态规划**    | [Python](./Code/53.py)  |    Easy    | 2020/1/20 |   Y    |
 |  58  |              [最后一个单词的长度](./idea/58.md)              |          **字符串**          | [Python](./Code/58.py)  |    Easy    | 2020/1/20 |   Y    |
