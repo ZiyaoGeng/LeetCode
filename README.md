@@ -134,7 +134,8 @@ from singly_linked_list import ListNode
 | 29 | [两数相除](./idea/29.md) | 数学、移位运算 | [Python](./Code/29.py) | Medium | 2020/1/26 | Y |
 | 33 | [搜索旋转排序数组](./idea/33.md) | 二分查找 | [Python](./Code/33.py) | Medium | 2020/1/26 | Y |
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](./idea/34.md) | 二分查找 | [Python](./Code/34.py) | Medium | 2020/1/26 | Y |
-|  35  |                 [搜索插入位置](./idea/26.md)                 |           二分查找           | [Python](./Code/35.py)  |    Easy    | 2020/1/19 |   Y    |
+|  35  |                 [搜索插入位置](./idea/35.md)                 |           二分查找           | [Python](./Code/35.py)  |    Easy    | 2020/1/19 |   Y    |
+| 36 | [有效的数独](./idea/36.md) | 哈希表 | [Python](./Code/36.py) | Medium | 2020/1/29 | Y |
 |  38  |                   [外观数列](./idea/38.md)                   |             递归             | [Python](./Code/38.py)  |    Easy    | 2020/1/19 |   Y    |
 | 39 | [组合总和](./idea/39.md) | 回溯算法 | [Python](./Code/39.py) | Medium | 2020/1/28 | Y |
 | 40 | [组合总和II](./idea/40.md) | 回溯算法、**剪枝** | [Python](./Code/40.py) | Medium | 2020/1/28 | Y |
