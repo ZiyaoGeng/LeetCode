@@ -139,6 +139,7 @@ from singly_linked_list import ListNode
 | 39 | [组合总和](./idea/39.md) | DFS | [Python](./Code/39.py) | Medium | 2020/1/28 | Y |
 | 40 | [组合总和II](./idea/40.md) | DFS、**剪枝** | [Python](./Code/40.py) | Medium | 2020/1/28 | Y |
 | 43 | [字符串相乘](./idea/43.md) | 字符串 | [Python](./Code/43.py) | Medium | 2020/1/27 | Y |
+| 46 | [全排列](./idea/46.md) | DFS | [Python](./Code/46.py) | Medium | 2020/1/29 | Y |
 | 48 | [旋转图像](./idea/48.md) | 数组 | [Python](./Code/48.py) | Medium | 2020/1/28 | Y |
 | 49 | [字母异位词分组](./idea/49.md) | 哈希表 | [Python](./Code/49.py) | Medium | 2020/1/27 | Y |
 | 50 | [Pow(x, n)](./idea/50.md) | 数学 | [Python](./Code/50.py) | Medium | 2020/1/28 | Y |
