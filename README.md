@@ -121,12 +121,12 @@ from singly_linked_list import ListNode
 |  14  |                 [最长公共前缀](./idea/14.md)                 |           分治算法           | [Python](./Code/14.py)  |    Easy    | 2020/1/18 |   Y    |
 |  15  |                   [三数之和](./idea/15.md)                   |         数组、双指针         | [Python](./Code/15.py)  |   Medium   | 2020/1/24 |   N    |
 |  16  |               [最接近的三数之和](./idea/16.md)               |         数组、双指针         | [Python](./Code/16.py)  |   Medium   | 2020/1/25 |   Y    |
-|  17  |              [电话号码的字母组合](./idea/17.md)              |         字符串、DFS          | [Python](./Code/17.py)  |   Medium   | 2020/1/23 |   Y    |
+|  17  |              [电话号码的字母组合](./idea/17.md)              |         字符串、回溯算法         | [Python](./Code/17.py)  |   Medium   | 2020/1/23 |   Y    |
 |  18  |                   [四数之和](./idea/18.md)                   |         数组、双指针         | [Python](./Code/18.py)  |   Medium   | 2020/1/25 |   Y    |
 |  19  |           [删除链表的倒数第N个节点](./idea/19.md)            |            单链表            | [Python](./Code/19.py)  |   Medium   | 2020/1/23 |   Y    |
 |  20  |                  [有效的括号](./idea/20.md)                  |          栈、哈希表          | [Python](./Code/20.py)  |    Easy    | 2020/1/18 |   Y    |
 |  21  |               [合并两个有序链表](./idea/21.md)               |         单链表、递归         | [Python](./Code/21.py)  |    Easy    | 2020/1/18 |   Y    |
-|  22  |                   [括号生成](./idea/22.md)                   |         字符串、DFS          | [Python](./Code/22.py)  |   Medium   | 2020/1/25 |   Y    |
+|  22  |                   [括号生成](./idea/22.md)                   |         字符串、回溯算法         | [Python](./Code/22.py)  |   Medium   | 2020/1/25 |   Y    |
 |  24  |             [两两交换链表中的节点](./idea/24.md)             |            单链表            | [Python](./Code/24.py)  |   Medium   | 2020/1/25 |   Y    |
 |  26  |            [删除排序数组中的重复项](./idea/26.md)            |            双指针            | [Python](./Code/26.py)  |    Easy    | 2020/1/18 |   Y    |
 |  27  |                   [移除元素](./idea/27.md)                   |            双指针            | [Python](./Code/27.py)  |    Easy    | 2020/1/19 |   Y    |
@@ -136,10 +136,11 @@ from singly_linked_list import ListNode
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](./idea/34.md) | 二分查找 | [Python](./Code/34.py) | Medium | 2020/1/26 | Y |
 |  35  |                 [搜索插入位置](./idea/26.md)                 |           二分查找           | [Python](./Code/35.py)  |    Easy    | 2020/1/19 |   Y    |
 |  38  |                   [外观数列](./idea/38.md)                   |             递归             | [Python](./Code/38.py)  |    Easy    | 2020/1/19 |   Y    |
-| 39 | [组合总和](./idea/39.md) | DFS | [Python](./Code/39.py) | Medium | 2020/1/28 | Y |
-| 40 | [组合总和II](./idea/40.md) | DFS、**剪枝** | [Python](./Code/40.py) | Medium | 2020/1/28 | Y |
+| 39 | [组合总和](./idea/39.md) | 回溯算法 | [Python](./Code/39.py) | Medium | 2020/1/28 | Y |
+| 40 | [组合总和II](./idea/40.md) | 回溯算法、**剪枝** | [Python](./Code/40.py) | Medium | 2020/1/28 | Y |
 | 43 | [字符串相乘](./idea/43.md) | 字符串 | [Python](./Code/43.py) | Medium | 2020/1/27 | Y |
 | 46 | [全排列](./idea/46.md) | DFS | [Python](./Code/46.py) | Medium | 2020/1/29 | Y |
+| 47 | [全排列II](./idea/47.md) | 回溯算法 | [Python](./Code/47.py) | Medium | 2020/1/29 | Y |
 | 48 | [旋转图像](./idea/48.md) | 数组 | [Python](./Code/48.py) | Medium | 2020/1/28 | Y |
 | 49 | [字母异位词分组](./idea/49.md) | 哈希表 | [Python](./Code/49.py) | Medium | 2020/1/27 | Y |
 | 50 | [Pow(x, n)](./idea/50.md) | 数学 | [Python](./Code/50.py) | Medium | 2020/1/28 | Y |

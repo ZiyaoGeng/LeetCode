@@ -19,8 +19,3 @@ class Solution:
 					self.trackback(nums, flag, l)
 					l.pop(-1)
 					flag[i] = 0
-
-s = Solution()
-print(s.permute([1]))
-
-
