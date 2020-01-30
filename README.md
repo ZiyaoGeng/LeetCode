@@ -147,6 +147,7 @@ from singly_linked_list import ListNode
 | 49 | [字母异位词分组](./idea/49.md) | 哈希表 | [Python](./Code/49.py) | Medium | 2020/1/27 | Y |
 | 50 | [Pow(x, n)](./idea/50.md) | 数学 | [Python](./Code/50.py) | Medium | 2020/1/28 | Y |
 |  53  |                  [最大子序和](./idea/53.md)                  |    分治算法、**动态规划**    | [Python](./Code/53.py)  |    Easy    | 2020/1/20 |   Y    |
+| 54 | [螺旋矩阵](./idea/54.md) | 数组 | [Python](./Code/54.py) | Medium | 2020/1/30 | Y |
 |  58  |              [最后一个单词的长度](./idea/58.md)              |          **字符串**          | [Python](./Code/58.py)  |    Easy    | 2020/1/20 |   Y    |
 |  66  |                     [加一](./idea/66.md)                     |             逻辑             | [Python](./Code/66.py)  |    Easy    | 2020/1/20 |   Y    |
 |  67  |                  [二进制求和](./idea/66.md)                  |            双指针            | [Python](./Code/67.py)  |    Easy    | 2020/1/20 |   Y    |
