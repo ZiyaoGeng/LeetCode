@@ -99,6 +99,7 @@ from singly_linked_list import ListNode
    - 遍历项：`for item in hashmap.items():`
 4. 重复字符串只需乘以数字即可：`"a" * 2`
 5. 关于2 ** 31，可以用**位运算符**，`1<<31`
+6. 排序，`sorted(nums, key= lambda x: x[1])`，按照每一个迭代对象的第2个值进行排序
 
 
 
