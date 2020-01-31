@@ -100,6 +100,7 @@ from singly_linked_list import ListNode
 4. 重复字符串只需乘以数字即可：`"a" * 2`
 5. 关于2 ** 31，可以用**位运算符**，`1<<31`
 6. 排序，`sorted(nums, key= lambda x: x[1])`，按照每一个迭代对象的第2个值进行排序
+7. 创建二维数组：`[[0] * n for i in range(n)]`
 
 
 
@@ -152,6 +153,7 @@ from singly_linked_list import ListNode
 | 55 | [跳跃游戏](./idea/55.md) | **贪心算法** | [Python](./Code/55.py) | Medium | 2020/1/30 | Y |
 | 56 | [合并区间](./idea/56.md) | 数组、排序 | [Python](./Code/56.py) | Medium | 2020/1/30 | Y |
 |  58  |              [最后一个单词的长度](./idea/58.md)              |          **字符串**          | [Python](./Code/58.py)  |    Easy    | 2020/1/20 |   Y    |
+| 59 | [螺旋矩阵II](./idea/59.md) | 数组 | [Python](./Code/59.py) | Medium | 2020/1/31 | Y |
 |  66  |                     [加一](./idea/66.md)                     |             逻辑             | [Python](./Code/66.py)  |    Easy    | 2020/1/20 |   Y    |
 |  67  |                  [二进制求和](./idea/66.md)                  |            双指针            | [Python](./Code/67.py)  |    Easy    | 2020/1/20 |   Y    |
 |  69  |                  [x的平方根](./idea/69.md)                   |     二分查找、**牛顿法**     | [Python](./Code/69.py)  |    Easy    | 2020/1/21 |   Y    |
