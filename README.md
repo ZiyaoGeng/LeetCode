@@ -144,7 +144,7 @@ from singly_linked_list import ListNode
 | 40 | [组合总和II](./idea/40.md) | 回溯算法、**剪枝** | [Python](./Code/40.py) | Medium | 2020/1/28 | Y |
 | 43 | [字符串相乘](./idea/43.md) | 字符串 | [Python](./Code/43.py) | Medium | 2020/1/27 | Y |
 | 46 | [全排列](./idea/46.md) | DFS | [Python](./Code/46.py) | Medium | 2020/1/29 | Y |
-| 47 | [全排列II](./idea/47.md) | 回溯算法 | [Python](./Code/47.py) | Medium | 2020/1/29 | Y |
+| 47 | [全排列II](./idea/47.md) | 回溯算法、剪枝 | [Python](./Code/47.py) | Medium | 2020/1/29 | Y |
 | 48 | [旋转图像](./idea/48.md) | 数组 | [Python](./Code/48.py) | Medium | 2020/1/28 | Y |
 | 49 | [字母异位词分组](./idea/49.md) | 哈希表 | [Python](./Code/49.py) | Medium | 2020/1/27 | Y |
 | 50 | [Pow(x, n)](./idea/50.md) | 数学 | [Python](./Code/50.py) | Medium | 2020/1/28 | Y |
@@ -154,6 +154,7 @@ from singly_linked_list import ListNode
 | 56 | [合并区间](./idea/56.md) | 数组、排序 | [Python](./Code/56.py) | Medium | 2020/1/30 | Y |
 |  58  |              [最后一个单词的长度](./idea/58.md)              |          **字符串**          | [Python](./Code/58.py)  |    Easy    | 2020/1/20 |   Y    |
 | 59 | [螺旋矩阵II](./idea/59.md) | 数组 | [Python](./Code/59.py) | Medium | 2020/1/31 | Y |
+| 60 | [第k个排列](./idea/60.md) | **数学** | [Python](./Code/60.py) | Medium | 2020/1/31 | Y |
 |  66  |                     [加一](./idea/66.md)                     |             逻辑             | [Python](./Code/66.py)  |    Easy    | 2020/1/20 |   Y    |
 |  67  |                  [二进制求和](./idea/66.md)                  |            双指针            | [Python](./Code/67.py)  |    Easy    | 2020/1/20 |   Y    |
 |  69  |                  [x的平方根](./idea/69.md)                   |     二分查找、**牛顿法**     | [Python](./Code/69.py)  |    Easy    | 2020/1/21 |   Y    |
