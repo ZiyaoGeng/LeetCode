@@ -156,6 +156,7 @@ from singly_linked_list import ListNode
 | 59 | [螺旋矩阵II](./idea/59.md) | 数组 | [Python](./Code/59.py) | Medium | 2020/1/31 | Y |
 | 60 | [第k个排列](./idea/60.md) | **数学** | [Python](./Code/60.py) | Medium | 2020/1/31 | Y |
 | 61 | [旋转链表](./idea/61.md) | 单链表 | [Python](./Code/61.py) | Medium | 2020/1/31 | Y |
+| 62 | [不同路径](./idea/62.md) | **动态规划** | [Python](./Code/62.py) | Medium | 2020/2/1 | Y |
 |  66  |                     [加一](./idea/66.md)                     |             逻辑             | [Python](./Code/66.py)  |    Easy    | 2020/1/20 |   Y    |
 |  67  |                  [二进制求和](./idea/66.md)                  |            双指针            | [Python](./Code/67.py)  |    Easy    | 2020/1/20 |   Y    |
 |  69  |                  [x的平方根](./idea/69.md)                   |     二分查找、**牛顿法**     | [Python](./Code/69.py)  |    Easy    | 2020/1/21 |   Y    |
