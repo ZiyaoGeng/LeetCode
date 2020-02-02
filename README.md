@@ -163,6 +163,7 @@ from singly_linked_list import ListNode
 |  67  |                  [二进制求和](./idea/66.md)                  |            双指针            | [Python](./Code/67.py)  |    Easy    | 2020/1/20 |   Y    |
 |  69  |                  [x的平方根](./idea/69.md)                   |     二分查找、**牛顿法**     | [Python](./Code/69.py)  |    Easy    | 2020/1/21 |   Y    |
 |  70  |                    [爬楼梯](./idea/70.md)                    |      斐波那契、动态规划      | [Python](./Code/70.py)  |    Easy    | 2020/1/20 |   Y    |
+| 73 | [矩阵置零](./idea/73.md) | **数组** | [Python](./Code/73.py) | Medium | 2020/2/2 | Y |
 |  83  |           [删除排序链表中的重复元素](./idea/83.md)           |            单链表            | [Python](./Code/83.py)  |    Easy    | 2020/1/20 |   Y    |
 |  88  |               [合并两个有序数组](./idea/88.md)               |            双指针            | [Python](./Code/88.py)  |    Easy    | 2020/1/20 |   Y    |
 | 100  |                   [相同的树](./idea/88.md)                   |            二叉树            | [Python](./Code/100.py) |    Easy    | 2020/1/20 |   Y    |
