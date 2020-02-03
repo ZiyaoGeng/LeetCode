@@ -15,6 +15,3 @@ class Solution:
     			r -= 1
     			continue
     		i += 1
-    	print(nums)
-
-Solution().sortColors([])
