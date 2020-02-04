@@ -169,10 +169,12 @@ from singly_linked_list import ListNode
 | 77 | [组合](./idea/77.md) | 回溯算法 | [Python](./Code/77.py) | Medium | 2020/2/3 | Y |
 | 78 | [子集](./idea/78.md) | 回溯算法 | [Python](./Code/78.py) | Medium | 2020/2/3 | Y |
 | 79 | [单词搜索](./idea/79.md) | **回溯算法** | [Python](./Code/79.py) | Medium | 2020/2/3 | Y |
+| 80 | [删除排序数组中的重复项II](./idea/80.md) | 数组 | [Python](./Code/80.py) | Medium | 2020/2/4 | Y |
+| 81 | [搜索旋转排序数组II](./idea/81.md) | **二分查找** | [Python](./Code/81.py) | Medium | 2020/2/4 | Y |
+| 82 | [删除排序链表中的重复元素II](./idea/82.md) | 单链表 | [Python](./Code/82.py) | Medium | 2020/2/4 | Y |
 |  83  |           [删除排序链表中的重复元素](./idea/83.md)           |            单链表            | [Python](./Code/83.py)  |    Easy    | 2020/1/20 |   Y    |
 |  88  |               [合并两个有序数组](./idea/88.md)               |            双指针            | [Python](./Code/88.py)  |    Easy    | 2020/1/20 |   Y    |
 | 100  |                   [相同的树](./idea/88.md)                   |            二叉树            | [Python](./Code/100.py) |    Easy    | 2020/1/20 |   Y    |
-| 141 | [环形链表](./idea/141.md) | 单链表 | [Python](./Code/104.py) | Easy | 2020/2/3 | Y |
 
 
 

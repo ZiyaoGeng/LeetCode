@@ -11,4 +11,3 @@ class Solution:
     		if p == q:
     			return True
     	return False
-
