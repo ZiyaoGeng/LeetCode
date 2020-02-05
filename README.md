@@ -101,7 +101,7 @@ from singly_linked_list import ListNode
 5. 关于2 ** 31，可以用**位运算符**，`1<<31`
 6. 排序，`sorted(nums, key= lambda x: x[1])`，按照每一个迭代对象的第2个值进行排序
 7. 创建二维数组：`[[0] * n for i in range(n)]`
-8. 向后遍历：`for i in range(len(nums)-1,-1,-1)`
+8. 向后遍历：`for i in range(len(nums)-1,-1,-1)
 
 
 
@@ -174,6 +174,7 @@ from singly_linked_list import ListNode
 | 81 | [搜索旋转排序数组II](./idea/81.md) | **二分查找** | [Python](./Code/81.py) | Medium | 2020/2/4 | Y |
 | 82 | [删除排序链表中的重复元素II](./idea/82.md) | 单链表 | [Python](./Code/82.py) | Medium | 2020/2/4 | Y |
 |  83  |           [删除排序链表中的重复元素](./idea/83.md)           |            单链表            | [Python](./Code/83.py)  |    Easy    | 2020/1/20 |   Y    |
+| 86 | [分隔链表](./idea/86.md) | 单链表 | [Python](./Code/86.py) | Medium | 2020/2/5 | Y |
 |  88  |               [合并两个有序数组](./idea/88.md)               |            双指针            | [Python](./Code/88.py)  |    Easy    | 2020/1/20 |   Y    |
 | 100  |                   [相同的树](./idea/88.md)                   |            二叉树            | [Python](./Code/100.py) |    Easy    | 2020/1/20 |   Y    |
 
