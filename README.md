@@ -176,6 +176,7 @@ from singly_linked_list import ListNode
 |  83  |           [删除排序链表中的重复元素](./idea/83.md)           |            单链表            | [Python](./Code/83.py)  |    Easy    | 2020/1/20 |   Y    |
 | 86 | [分隔链表](./idea/86.md) | 单链表 | [Python](./Code/86.py) | Medium | 2020/2/5 | Y |
 |  88  |               [合并两个有序数组](./idea/88.md)               |            双指针            | [Python](./Code/88.py)  |    Easy    | 2020/1/20 |   Y    |
+| 90 | [子集II](./idea/90.md) | 回溯算法 | [Python](./Code/90.py) | Medium | 2020/2/5 | Y |
 | 100  |                   [相同的树](./idea/88.md)                   |            二叉树            | [Python](./Code/100.py) |    Easy    | 2020/1/20 |   Y    |
 
 
