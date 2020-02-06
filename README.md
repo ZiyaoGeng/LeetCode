@@ -180,6 +180,7 @@ from singly_linked_list import ListNode
 | 90 | [子集II](./idea/90.md) | 回溯算法 | [Python](./Code/90.py) | Medium | 2020/2/5 | Y |
 | 91 | [解码方法](./idea/91.md) | 字符串、动态规划 | [Python](./Code/91.py) | Medium | 2020/2/6 | Y |
 | 92 | [反转链表II](./idea/92.md) | 单链表 | [Python](./Code/92.py) | Medium | 2020/2/6 | Y |
+| 93 | [复原IP地址](./idea/93.md) | 回溯算法 | [Python](./Code/93.py) | Medium | 2020/2/6 | Y |
 | 100  |                   [相同的树](./idea/88.md)                   |            二叉树            | [Python](./Code/100.py) |    Easy    | 2020/1/20 |   Y    |
 
 
