@@ -178,6 +178,7 @@ from singly_linked_list import ListNode
 |  88  |               [合并两个有序数组](./idea/88.md)               |            双指针            | [Python](./Code/88.py)  |    Easy    | 2020/1/20 |   Y    |
 | 89 | [格雷编码](./idea/89.md) | **回溯算法** | [Python](./Code/89.py) | Medium | 2020/2/5 | **Y** |
 | 90 | [子集II](./idea/90.md) | 回溯算法 | [Python](./Code/90.py) | Medium | 2020/2/5 | Y |
+| 91 | [解码方法](./idea/91.md) | 字符串、动态规划 | [Python](./Code/91.py) | Medium | 2020/2/6 | Y |
 | 100  |                   [相同的树](./idea/88.md)                   |            二叉树            | [Python](./Code/100.py) |    Easy    | 2020/1/20 |   Y    |
 
 
