@@ -133,7 +133,7 @@ from singly_linked_list import ListNode
 |  24  |             [两两交换链表中的节点](./idea/24.md)             |            单链表            | [Python](./Code/24.py)  |   Medium   | 2020/1/25 |   Y    |
 |  26  |            [删除排序数组中的重复项](./idea/26.md)            |            双指针            | [Python](./Code/26.py)  |    Easy    | 2020/1/18 |   Y    |
 |  27  |                   [移除元素](./idea/27.md)                   |            双指针            | [Python](./Code/27.py)  |    Easy    | 2020/1/19 |   Y    |
-|  28  |                [实现strStr\(\)](./idea/28.md)                |           **KMP**            | [Python](./Code/28.py)  |    Easy    | 2020/1/19 |   Y    |
+|  **28**  |                [实现strStr\(\)](./idea/28.md)                |           **KMP**            | [Python](./Code/28.py)  |    Easy    | 2020/1/19 |   Y    |
 | 29 | [两数相除](./idea/29.md) | 数学、移位运算 | [Python](./Code/29.py) | Medium | 2020/1/26 | Y |
 | 31 | [下一个排列](./idea/31.md) | 数组 | [Python](./Code/31.py) | Medium | 2020/1/29 | **N** |
 | 33 | [搜索旋转排序数组](./idea/33.md) | 二分查找 | [Python](./Code/33.py) | Medium | 2020/1/26 | Y |
@@ -142,22 +142,22 @@ from singly_linked_list import ListNode
 | 36 | [有效的数独](./idea/36.md) | 哈希表 | [Python](./Code/36.py) | Medium | 2020/1/29 | Y |
 |  38  |                   [外观数列](./idea/38.md)                   |             递归             | [Python](./Code/38.py)  |    Easy    | 2020/1/19 |   Y    |
 | 39 | [组合总和](./idea/39.md) | 回溯算法 | [Python](./Code/39.py) | Medium | 2020/1/28 | Y |
-| 40 | [组合总和II](./idea/40.md) | 回溯算法、**剪枝** | [Python](./Code/40.py) | Medium | 2020/1/28 | Y |
+| **40** | [组合总和II](./idea/40.md) | 回溯算法、**剪枝** | [Python](./Code/40.py) | Medium | 2020/1/28 | Y |
 | 43 | [字符串相乘](./idea/43.md) | 字符串 | [Python](./Code/43.py) | Medium | 2020/1/27 | Y |
 | 46 | [全排列](./idea/46.md) | DFS | [Python](./Code/46.py) | Medium | 2020/1/29 | Y |
 | 47 | [全排列II](./idea/47.md) | 回溯算法、剪枝 | [Python](./Code/47.py) | Medium | 2020/1/29 | Y |
 | 48 | [旋转图像](./idea/48.md) | 数组 | [Python](./Code/48.py) | Medium | 2020/1/28 | Y |
 | 49 | [字母异位词分组](./idea/49.md) | 哈希表 | [Python](./Code/49.py) | Medium | 2020/1/27 | Y |
 | 50 | [Pow(x, n)](./idea/50.md) | 数学 | [Python](./Code/50.py) | Medium | 2020/1/28 | Y |
-|  53  |                  [最大子序和](./idea/53.md)                  |    分治算法、**动态规划**    | [Python](./Code/53.py)  |    Easy    | 2020/1/20 |   Y    |
+|  **53**  |                  [最大子序和](./idea/53.md)                  |    分治算法、**动态规划**    | [Python](./Code/53.py)  |    Easy    | 2020/1/20 |   Y    |
 | 54 | [螺旋矩阵](./idea/54.md) | 数组 | [Python](./Code/54.py) | Medium | 2020/1/30 | Y |
-| 55 | [跳跃游戏](./idea/55.md) | **贪心算法** | [Python](./Code/55.py) | Medium | 2020/1/30 | Y |
+| **55** | [跳跃游戏](./idea/55.md) | **贪心算法** | [Python](./Code/55.py) | Medium | 2020/1/30 | Y |
 | 56 | [合并区间](./idea/56.md) | 数组、排序 | [Python](./Code/56.py) | Medium | 2020/1/30 | Y |
-|  58  |              [最后一个单词的长度](./idea/58.md)              |          **字符串**          | [Python](./Code/58.py)  |    Easy    | 2020/1/20 |   Y    |
+|  **58**  |              [最后一个单词的长度](./idea/58.md)              |          **字符串**          | [Python](./Code/58.py)  |    Easy    | 2020/1/20 |   Y    |
 | 59 | [螺旋矩阵II](./idea/59.md) | 数组 | [Python](./Code/59.py) | Medium | 2020/1/31 | Y |
-| 60 | [第k个排列](./idea/60.md) | **数学** | [Python](./Code/60.py) | Medium | 2020/1/31 | Y |
+| **60** | [第k个排列](./idea/60.md) | **数学** | [Python](./Code/60.py) | Medium | 2020/1/31 | Y |
 | 61 | [旋转链表](./idea/61.md) | 单链表 | [Python](./Code/61.py) | Medium | 2020/1/31 | Y |
-| 62 | [不同路径](./idea/62.md) | **动态规划** | [Python](./Code/62.py) | Medium | 2020/2/1 | Y |
+| **62** | [不同路径](./idea/62.md) | **动态规划** | [Python](./Code/62.py) | Medium | 2020/2/1 | Y |
 | 63 | [不同路径II](./idea/63.md) | 动态规划 | [Python](./Code/63.py) | Medium | 2020/2/1 | Y |
 | 64 | [最小路径和](./idea/64.md) | 动态规划 | [Python](./Code/64.py) | Medium | 2020/2/1 | Y |
 |  66  |                     [加一](./idea/66.md)                     |             逻辑             | [Python](./Code/66.py)  |    Easy    | 2020/1/20 |   Y    |
@@ -169,18 +169,19 @@ from singly_linked_list import ListNode
 | 75 | [搜索二维矩阵](./idea/75.md) | 数组 | [Python](./Code/75.py) | Medium | 2020/2/2 | Y |
 | 77 | [组合](./idea/77.md) | 回溯算法 | [Python](./Code/77.py) | Medium | 2020/2/3 | Y |
 | 78 | [子集](./idea/78.md) | 回溯算法 | [Python](./Code/78.py) | Medium | 2020/2/3 | Y |
-| 79 | [单词搜索](./idea/79.md) | **回溯算法** | [Python](./Code/79.py) | Medium | 2020/2/3 | Y |
+| **79** | [单词搜索](./idea/79.md) | **回溯算法** | [Python](./Code/79.py) | Medium | 2020/2/3 | Y |
 | 80 | [删除排序数组中的重复项II](./idea/80.md) | 数组 | [Python](./Code/80.py) | Medium | 2020/2/4 | Y |
-| 81 | [搜索旋转排序数组II](./idea/81.md) | **二分查找** | [Python](./Code/81.py) | Medium | 2020/2/4 | Y |
+| **81** | [搜索旋转排序数组II](./idea/81.md) | **二分查找** | [Python](./Code/81.py) | Medium | 2020/2/4 | Y |
 | 82 | [删除排序链表中的重复元素II](./idea/82.md) | 单链表 | [Python](./Code/82.py) | Medium | 2020/2/4 | Y |
 |  83  |           [删除排序链表中的重复元素](./idea/83.md)           |            单链表            | [Python](./Code/83.py)  |    Easy    | 2020/1/20 |   Y    |
 | 86 | [分隔链表](./idea/86.md) | 单链表 | [Python](./Code/86.py) | Medium | 2020/2/5 | Y |
 |  88  |               [合并两个有序数组](./idea/88.md)               |            双指针            | [Python](./Code/88.py)  |    Easy    | 2020/1/20 |   Y    |
-| 89 | [格雷编码](./idea/89.md) | **回溯算法** | [Python](./Code/89.py) | Medium | 2020/2/5 | **Y** |
+| **89** | [格雷编码](./idea/89.md) | **回溯算法** | [Python](./Code/89.py) | Medium | 2020/2/5 | **Y** |
 | 90 | [子集II](./idea/90.md) | 回溯算法 | [Python](./Code/90.py) | Medium | 2020/2/5 | Y |
 | 91 | [解码方法](./idea/91.md) | 字符串、动态规划 | [Python](./Code/91.py) | Medium | 2020/2/6 | Y |
 | 92 | [反转链表II](./idea/92.md) | 单链表 | [Python](./Code/92.py) | Medium | 2020/2/6 | Y |
 | 93 | [复原IP地址](./idea/93.md) | 回溯算法 | [Python](./Code/93.py) | Medium | 2020/2/6 | Y |
+| **94** | [二叉树的中序遍历](./idea/94.md) | 二叉树 | [Python](./Code/94.py) | Medium | 2020/2/6 | Y |
 | 100  |                   [相同的树](./idea/88.md)                   |            二叉树            | [Python](./Code/100.py) |    Easy    | 2020/1/20 |   Y    |
 
 
