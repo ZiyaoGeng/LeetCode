@@ -196,7 +196,8 @@ from singly_linked_list import ListNode
 | **95** | [不同的线索二叉树II](./idea/95.md) | 二叉搜索树 | [Python](./Code/95.py) | Medium | 2020/2/9 | N |
 | **96** | [不同的线索二叉树](./idea/96.md) | 动态规划、二叉搜索树 | [Python](./Code/96.py) | Medium | 2020/2/7 | N |
 | **98** | [验证二叉线索树](./idea/98.md) | DFS、二叉搜索树 | [Python](./Code/98.py) | Medium | 2020/2/8 | Y |
-| 100  |                   [相同的树](./idea/88.md)                   |            二叉树            | [Python](./Code/100.py) |    Easy    | 2020/1/20 |   Y    |
+| 100  |                   [相同的树](./idea/100.md)                   |            二叉树            | [Python](./Code/100.py) |    Easy    | 2020/1/20 |   Y    |
+| 101 | [对称二叉树](./idea/101.md) | 二叉树、DFS、栈 | [Python](./Code/101.py) | Easy | 2020/2/10 | Y |
 | 141 | [环形链表](./idea/141.md) | 单链表 | [Python](./Code/141.py) | Easy | 2020/2/4 | Y |
 
 
