@@ -31,7 +31,7 @@ class Solution:
     def dfs(self, p: TreeNode, l: int):
     	if p.left == None and p.right == None:
     		return l
-    	l1, l2 = 10000, 10000
+    	l1, l2 = float('inf'), float('10000')
     	if p.left != None:
     		l1 = self.dfs(p.left, l+1)
     	if p.right != None:
