@@ -200,6 +200,7 @@ from singly_linked_list import ListNode
 | 101 | [对称二叉树](./idea/101.md) | 二叉树、DFS、栈 | [Python](./Code/101.py) | Easy | 2020/2/10 | Y |
 | 104 | [二叉树的最大深度](./idea/104.md) | 二叉树、DFS | [Python](./Code/104.py) | Easy | 2020/2/10 | Y |
 | 107 | [二叉树的层次遍历II](./idea/107.md) | 二叉树、BFS | [Python](./Code/107.py) | Easy | 2020/2/10 | Y |
+| 111 | [二叉树的最小深度](./idea/111.md) | 二叉树、BFS | [Python](./Code/111.py) | Easy | 2020/2/10 | Y |
 | 141 | [环形链表](./idea/141.md) | 单链表 | [Python](./Code/141.py) | Easy | 2020/2/4 | Y |
 
 
