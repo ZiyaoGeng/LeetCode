@@ -12,7 +12,7 @@ class Solution:
 		return self.flag
 	def dfs(self, root: TreeNode, sum: int):
 		if root.left == None and root.right == None:
-			if sum == 0::
+			if sum == 0:
 				self.flag = True
 		else:
 			if root.left != None:

@@ -203,7 +203,8 @@ from singly_linked_list import ListNode
 | 108 | [将有序数组转化为二叉搜索树](./idea/108.md) | 二叉搜索树、DFS | [Python](./Code/108.py) | Easy | 2020/2/11 | Y |
 | 110 | [平衡二叉树](./idea/110.md) | 平衡二叉树、DFS | [Python](./Code/110.py) | Easy | 2020/2/11 | Y |
 | **111** | [二叉树的最小深度](./idea/111.md) | 二叉树、BFS、DFS | [Python](./Code/111.py) | Easy | 2020/2/10 | Y |
-|  | [路径总和](./idea/110.md) | 二叉树、DFS | [Python](./Code/112.py) | Easy | 2020/2/12 | Y |
+| 112 | [路径总和](./idea/110.md) | 二叉树、DFS | [Python](./Code/112.py) | Easy | 2020/2/12 | Y |
+| 118 | [杨辉三角](./idea/118.md) | 数组 | [Python](./Code/118.py) | Easy | 2020/2/12 | Y |
 | 141 | [环形链表](./idea/141.md) | 单链表 | [Python](./Code/141.py) | Easy | 2020/2/4 | Y |
 
 
