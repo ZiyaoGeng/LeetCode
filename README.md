@@ -101,17 +101,32 @@ from singly_linked_list import ListNode
 ### Python包：特殊的函数或用法
 
 1. **ord()**，它以一个字符（长度为1的字符串）作为参数，返回对应的 ASCII 数值；
+
 2. str = **str.rstrip()**，去除字符串右端的空格；
+
 3. 遍历字典的四种方式：
    - 遍历键：`for key in hashmap:`
    - 遍历值：`for value in hashmap.values():`
    - 遍历键、值：`for key, value in hashmap:`
    - 遍历项：`for item in hashmap.items():`
+   
 4. 重复字符串只需乘以数字即可：`"a" * 2`
+
 5. 关于2 ** 31，可以用**位运算符**，`1<<31`
+
 6. 排序，`sorted(nums, key= lambda x: x[1])`，按照每一个迭代对象的第2个值进行排序
+
 7. 创建二维数组：`[[0] * n for i in range(n)]`
-8. 向后遍历：`for i in range(len(nums)-1,-1,-1)
+
+8. 向后遍历：`for i in range(len(nums)-1,-1,-1)`
+
+9. 字符串判断：
+
+   - 是否为数字：`"".isdigit`;
+   - 是否为字母：`"".isalpha`;
+   - 是否为数字字母：`"".isalnum`;
+
+   
 
 
 
@@ -208,6 +223,7 @@ from singly_linked_list import ListNode
 | 119 | [杨辉三角II](./idea/119.md) | 数组 | [Python](./Code/119.py) | Easy | 2020/2/12 | Y |
 | 121 | [买卖股票的最佳时机](./idea/121.md) | 动态规划 | [Python](./Code/121.py) | Easy | 2020/2/13 | Y |
 | 122 | [买卖股票的最佳时机II](./idea/122.md) | 动态规划 | [Python](./Code/122.py) | Easy | 2020/2/13 | Y |
+| 125 | [验证回文串](./idea/125.md) | 字符串 | [Python](./Code/125.py) | Easy | 2020/2/13 | Y |
 | 141 | [环形链表](./idea/141.md) | 单链表 | [Python](./Code/141.py) | Easy | 2020/2/4 | Y |
 
 
