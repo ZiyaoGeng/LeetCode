@@ -227,6 +227,7 @@ from singly_linked_list import ListNode
 | 136 | [只出现一次的数字](./idea/136.md) | 哈希表、位操作 | [Python](./Code/136.py) | Easy | 2020/2/13 | Y |
 | 141 | [环形链表](./idea/141.md) | 单链表 | [Python](./Code/141.py) | Easy | 2020/2/4 | Y |
 | 155 | [最小栈](./idea/155.md) | 栈、设计 | [Python](./Code/155.py) | Easy | 2020/2/14 | Y |
+| **160** | [相交链表](./idea/160.md) | 单链表、哈希表、**双指针** | [Python](./Code/160.py) | Easy | 2020/2/14 | Y |
 
 
 
