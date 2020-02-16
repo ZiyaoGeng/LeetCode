@@ -100,7 +100,7 @@ from singly_linked_list import ListNode
 
 ### Python包：特殊的函数或用法
 
-1. **ord()**，它以一个字符（长度为1的字符串）作为参数，返回对应的 ASCII 数值；
+1. **ord()**，它以一个字符（长度为1的字符串）作为参数，返回对应的 ASCII 数值；**chr()**：ASCII转字符
 
 2. str = **str.rstrip()**，去除字符串右端的空格；
 
@@ -231,6 +231,7 @@ from singly_linked_list import ListNode
 | 167 | [两数之和 II - 输入有序数组](./idea/167.md) | 数组、哈希表、双指针 | [Python](./Code/167.py) | Easy | 2020/2/14 | Y |
 | 168 | [Excel表列名称](./idea/168.md) | 数学 | [Python](./Code/168.py) | Easy | 2020/2/15 | Y |
 | **169** | [多数元素](./idea/169.md) | 分治、投票 | [Python](./Code/169.py) | Easy | 2020/2/15 | Y |
+| 171 | [Excel表列序号](./idea/171.md) | 数学 | [Python](./Code/171.py) | Easy | 2020/2/16 | Y |
 
 
 
