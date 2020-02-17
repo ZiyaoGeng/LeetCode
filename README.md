@@ -232,6 +232,7 @@ from singly_linked_list import ListNode
 | 168 | [Excel表列名称](./idea/168.md) | 数学 | [Python](./Code/168.py) | Easy | 2020/2/15 | Y |
 | **169** | [多数元素](./idea/169.md) | 分治、投票 | [Python](./Code/169.py) | Easy | 2020/2/15 | Y |
 | 171 | [Excel表列序号](./idea/171.md) | 数学 | [Python](./Code/171.py) | Easy | 2020/2/16 | Y |
+| **172** | [阶乘后的零](./idea/172.md) | 数学 | [Python](./Code/172.py) | Easy | 2020/2/17 | Y |
 | 189 | [旋转数组](./idea/189.md) | 数组 | [Python](./Code/189.py) | Easy | 2020/2/17 | Y |
 | 190 | [颠倒二进制位](./idea/190.md) | 位运算 | [Python](./Code/190.py) | Easy | 2020/2/17 | Y |
 | 191 | [位1的个数](./idea/191.md) | 位运算 | [Python](./Code/191.py) | Easy | 2020/2/17 | Y |
