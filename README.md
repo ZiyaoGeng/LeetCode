@@ -233,6 +233,7 @@ from singly_linked_list import ListNode
 | **169** | [多数元素](./idea/169.md) | 分治、投票 | [Python](./Code/169.py) | Easy | 2020/2/15 | Y |
 | 171 | [Excel表列序号](./idea/171.md) | 数学 | [Python](./Code/171.py) | Easy | 2020/2/16 | Y |
 | 189 | [旋转数组](./idea/189.md) | 数组 | [Python](./Code/189.py) | Easy | 2020/2/17 | Y |
+| 198 | [打家劫舍](./idea/198.md) | 动态规划 | [Python](./Code/198.py) | Easy | 2020/2/17 | Y |
 
 
 
