@@ -101,32 +101,24 @@ from singly_linked_list import ListNode
 ### Python包：特殊的函数或用法
 
 1. **ord()**，它以一个字符（长度为1的字符串）作为参数，返回对应的 ASCII 数值；**chr()**：ASCII转字符
-
 2. str = **str.rstrip()**，去除字符串右端的空格；
-
 3. 遍历字典的四种方式：
    - 遍历键：`for key in hashmap:`
    - 遍历值：`for value in hashmap.values():`
    - 遍历键、值：`for key, value in hashmap:`
    - 遍历项：`for item in hashmap.items():`
-   
 4. 重复字符串只需乘以数字即可：`"a" * 2`
-
 5. 关于2 ** 31，可以用**位运算符**，`1<<31`
-
 6. 排序，`sorted(nums, key= lambda x: x[1])`，按照每一个迭代对象的第2个值进行排序
-
 7. 创建二维数组：`[[0] * n for i in range(n)]`
-
 8. 向后遍历：`for i in range(len(nums)-1,-1,-1)`
-
 9. 字符串判断：
 
    - 是否为数字：`"".isdigit`;
    - 是否为字母：`"".isalpha`;
    - 是否为数字字母：`"".isalnum`;
 
-   
+10. 申明全局变量：nonlocal
 
 
 
@@ -217,6 +209,7 @@ from singly_linked_list import ListNode
 | 103 | [二叉树的锯齿形层次遍历](./idea/103.md) | 二叉树、BFS | [Python](./Code/103.py) | Medium | 2020/2/18 | Y |
 | 104 | [二叉树的最大深度](./idea/104.md) | 二叉树、DFS | [Python](./Code/104.py) | Easy | 2020/2/10 | Y |
 | 105 | [从前序与中序遍历序列构造二叉树](./idea/105.md) | 二叉树、DFS | [Python](./Code/105.py) | Medium | 2020/2/19 | Y |
+| 106 | [从中序与后序遍历序列构造二叉树](./idea/106.md) | 二叉树、DFS | [Python](./Code/106.py) | Medium | 2020/2/19 | Y |
 | 107 | [二叉树的层次遍历II](./idea/107.md) | 二叉树、BFS | [Python](./Code/107.py) | Easy | 2020/2/10 | Y |
 | 108 | [将有序数组转化为二叉搜索树](./idea/108.md) | 二叉搜索树、DFS | [Python](./Code/108.py) | Easy | 2020/2/11 | Y |
 | 110 | [平衡二叉树](./idea/110.md) | 平衡二叉树、DFS | [Python](./Code/110.py) | Easy | 2020/2/11 | Y |
