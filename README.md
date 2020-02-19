@@ -216,6 +216,7 @@ from singly_linked_list import ListNode
 | 102 | [二叉树的层次遍历](./idea/102.md) | 二叉树、BFS | [Python](./Code/102.py) | Medium | 2020/2/18 | Y |
 | 103 | [二叉树的锯齿形层次遍历](./idea/103.md) | 二叉树、BFS | [Python](./Code/103.py) | Medium | 2020/2/18 | Y |
 | 104 | [二叉树的最大深度](./idea/104.md) | 二叉树、DFS | [Python](./Code/104.py) | Easy | 2020/2/10 | Y |
+| 105 | [从前序与中序遍历序列构造二叉树](./idea/105.md) | 二叉树、DFS | [Python](./Code/105.py) | Medium | 2020/2/19 | Y |
 | 107 | [二叉树的层次遍历II](./idea/107.md) | 二叉树、BFS | [Python](./Code/107.py) | Easy | 2020/2/10 | Y |
 | 108 | [将有序数组转化为二叉搜索树](./idea/108.md) | 二叉搜索树、DFS | [Python](./Code/108.py) | Easy | 2020/2/11 | Y |
 | 110 | [平衡二叉树](./idea/110.md) | 平衡二叉树、DFS | [Python](./Code/110.py) | Easy | 2020/2/11 | Y |

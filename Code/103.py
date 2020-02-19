@@ -11,8 +11,8 @@ class Solution:
     	flag = 0
     	que.append(root)
     	while len(que) != 0:
+    		p = que.pop(-1)
     		if flag == 0:
-    			p.val(0)
     			if p.left != None:
     				child.append(p.left)
     			if p.right != None:
@@ -27,7 +27,7 @@ class Solution:
     			ls.append(l.copy())
     			que = child.copy()
     			l, child = [], []
-    			flag = 1
+    			flag = 0 if flag == 1 else 1
     	return ls
 
 
