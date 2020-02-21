@@ -222,6 +222,7 @@ from singly_linked_list import ListNode
 | 117 | [填充每个节点的下一个右侧节点指针II](./idea/117.md) | 二叉树、BFS | [Python](./Code/117.py) | Medium | 2020/2/20 | Y |
 | 118 | [杨辉三角](./idea/118.md) | 数组 | [Python](./Code/118.py) | Easy | 2020/2/12 | Y |
 | 119 | [杨辉三角II](./idea/119.md) | 数组 | [Python](./Code/119.py) | Easy | 2020/2/12 | Y |
+| 120 | [三角形最小路径和](./idea/120.md) | 动态规划、数组 | [Python](./Code/120.py) | Medium | 2020/2/21 | Y |
 | 121 | [买卖股票的最佳时机](./idea/121.md) | 动态规划 | [Python](./Code/121.py) | Easy | 2020/2/13 | Y |
 | 122 | [买卖股票的最佳时机II](./idea/122.md) | 动态规划 | [Python](./Code/122.py) | Easy | 2020/2/13 | Y |
 | 125 | [验证回文串](./idea/125.md) | 字符串 | [Python](./Code/125.py) | Easy | 2020/2/13 | Y |

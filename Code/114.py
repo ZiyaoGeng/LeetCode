@@ -4,6 +4,8 @@ from tree import TreeNode
 
 class Solution:
     def flatten(self, root: TreeNode) -> None:
+    	if root == None:
+    		return
     	stack = []
     	stack.append(root)
     	q = root
