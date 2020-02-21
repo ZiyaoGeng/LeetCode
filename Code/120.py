@@ -11,7 +11,3 @@ class Solution:
     				minload[j] = triangle[i][j] + min(minload[j], minload[j+1])
 
     	return minload[0]
-
-
-print(Solution().minimumTotal([
-]))
