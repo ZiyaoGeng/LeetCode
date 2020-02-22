@@ -4,6 +4,8 @@ from tree import TreeNode
 
 class Solution:
     def sumNumbers(self, root: TreeNode) -> int:
+    	if root == None:
+    		return 0
     	sumload = 0
     	def helper(root, num):
     		nonlocal sumload

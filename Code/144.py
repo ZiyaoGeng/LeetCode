@@ -9,7 +9,7 @@ class Solution:
     		return []
     	stack, l = [], []
     	stack.append(root)
-    	while len(stack) == 0:
+    	while len(stack) != 0:
     		p = stack.pop(-1)
     		l.append(p.val)
     		if p.right != None:
