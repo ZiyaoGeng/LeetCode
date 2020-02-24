@@ -229,9 +229,9 @@ from singly_linked_list import ListNode
 | 129 | [求根到叶子节点数字之和](./idea/129.md) | 二叉树、DFS | [Python](./Code/129.py) | Medium | 2020/2/21 | Y |
 | **130** | [被围绕的区域](./idea/130.md) | **图**、DFS | [Python](./Code/130.py) | Medium | 2020/2/22 | Y |
 | 131 | [分割回文串](./idea/131.md) | 回溯算法 | [Python](./Code/131.py) | Medium | 2020/2/23 | Y |
-| 133 | [克隆图](./idea/133.md) | 图、DFS | [Python](./Code/133.py) | Medium | 2020/2/23 | N |
+| **133** | [克隆图](./idea/133.md) | 图、DFS | [Python](./Code/133.py) | Medium | 2020/2/23 | N |
 | 136 | [只出现一次的数字](./idea/136.md) | 哈希表、**位操作** | [Python](./Code/136.py) | Easy | 2020/2/13 | Y |
-| 138 | [复制带随机指针的链表](./idea/138.md) | 链表 | [Python](./Code/138.py) | Medium | 2020/2/24 | Y |
+| **138** | [复制带随机指针的链表](./idea/138.md) | 链表 | [Python](./Code/138.py) | Medium | 2020/2/24 | Y |
 | 141 | [环形链表](./idea/141.md) | 单链表 | [Python](./Code/141.py) | Easy | 2020/2/4 | Y |
 | **142** | [环形链表II](./idea/142.md) | 单链表、**Floyd算法** | [Python](./Code/142.py) | Medium | 2020/2/23 | Y |
 | 143 | [重排链表](./idea/143.md) | 单链表、**递归** | [Python](./Code/143.py) | Medium | 2020/2/24 | Y |
