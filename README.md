@@ -231,8 +231,10 @@ from singly_linked_list import ListNode
 | 131 | [分割回文串](./idea/131.md) | 回溯算法 | [Python](./Code/131.py) | Medium | 2020/2/23 | Y |
 | 133 | [克隆图](./idea/133.md) | 图、DFS | [Python](./Code/133.py) | Medium | 2020/2/23 | N |
 | 136 | [只出现一次的数字](./idea/136.md) | 哈希表、**位操作** | [Python](./Code/136.py) | Easy | 2020/2/13 | Y |
+| 138 | [复制带随机指针的链表](./idea/138.md) | 链表 | [Python](./Code/138.py) | Medium | 2020/2/24 | Y |
 | 141 | [环形链表](./idea/141.md) | 单链表 | [Python](./Code/141.py) | Easy | 2020/2/4 | Y |
 | **142** | [环形链表II](./idea/142.md) | 单链表、**Floyd算法** | [Python](./Code/142.py) | Medium | 2020/2/23 | Y |
+| 143 | [重排链表](./idea/143.md) | 单链表、**递归** | [Python](./Code/143.py) | Medium | 2020/2/24 | Y |
 | 144 | [二叉树的前序遍历](./idea/144.md) | 二叉树、非递归 | [Python](./Code/144.py) | Medium | 2020/2/21 | Y |
 | 155 | [最小栈](./idea/155.md) | 栈、设计 | [Python](./Code/155.py) | Easy | 2020/2/14 | Y |
 | **160** | [相交链表](./idea/160.md) | 单链表、哈希表、**双指针** | [Python](./Code/160.py) | Easy | 2020/2/14 | Y |
