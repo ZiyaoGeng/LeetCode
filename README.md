@@ -122,9 +122,9 @@ from singly_linked_list import ListNode
 
 9. 字符串判断：
 
-   - 是否为数字：`"".isdigit`;
-   - 是否为字母：`"".isalpha`;
-   - 是否为数字字母：`"".isalnum`;
+   - 是否为数字：`"".isdigit() # 无法判断负数`;  
+   - 是否为字母：`"".isalpha()`;
+   - 是否为数字字母：`"".isalnum()`;
 
 10. 申明全局变量：nonlocal
 
@@ -140,15 +140,15 @@ from singly_linked_list import ListNode
     dict.get(key)
     # 移动到最后一个
     dict.move_to_end(key)
+    # 删除某个键对应的值
+    dict.pop(key)
     # 删除最后一个
     dict.popitem()
     # 删除第一个
     dict.popitem(last=False)
     ```
 
-    
-
-    
+12. -1 // 6 = 1； int(-1 / 6) = 0
 
 
 
@@ -268,6 +268,7 @@ from singly_linked_list import ListNode
 | 143 | [重排链表](./idea/143.md) | 单链表、**递归** | [Python](./Code/143.py) | Medium | 2020/2/24 | Y |
 | 144 | [二叉树的前序遍历](./idea/144.md) | 二叉树、非递归 | [Python](./Code/144.py) | Medium | 2020/2/21 | Y |
 | 146 | [LRU的缓存机制](./idea/146.md) | 设计 | [Python](./Code/146.py) | Medium | 2020/2/25 | Y |
+| 150 | [逆波兰表达式求值](./idea/146.md) | 数学 | [Python](./Code/150.py) | Medium | 2020/2/25 | Y |
 | 155 | [最小栈](./idea/155.md) | 栈、设计 | [Python](./Code/155.py) | Easy | 2020/2/14 | Y |
 | **160** | [相交链表](./idea/160.md) | 单链表、哈希表、**双指针** | [Python](./Code/160.py) | Easy | 2020/2/14 | Y |
 | 167 | [两数之和 II - 输入有序数组](./idea/167.md) | 数组、哈希表、双指针 | [Python](./Code/167.py) | Easy | 2020/2/14 | Y |
