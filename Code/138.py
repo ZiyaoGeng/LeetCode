@@ -7,6 +7,8 @@ class Node:
 
 class Solution:
     def copyRandomList(self, head: 'Node') -> 'Node':
+    	if head == None:
+    		return None
     	p = head
     	ans = {}
     	former = None
@@ -20,6 +22,7 @@ class Solution:
     			r_node = None
     		elif ans.get(p.random) == None:
     			r_node = Node(p.random.val, None, None)
+    			ans[p.random] = r_node
     		else:
     			r_node = ans[p.random]
     		clone.random = r_node
@@ -29,4 +32,4 @@ class Solution:
     			former.next = clone
     			former = former.next
     		p = p.next
-    	return ans[p]
+    	return ans[head]

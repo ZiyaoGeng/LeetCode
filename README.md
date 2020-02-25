@@ -101,17 +101,25 @@ from singly_linked_list import ListNode
 ### Python包：特殊的函数或用法
 
 1. **ord()**，它以一个字符（长度为1的字符串）作为参数，返回对应的 ASCII 数值；**chr()**：ASCII转字符
+
 2. str = **str.rstrip()**，去除字符串右端的空格；
+
 3. 遍历字典的四种方式：
    - 遍历键：`for key in hashmap:`
    - 遍历值：`for value in hashmap.values():`
    - 遍历键、值：`for key, value in hashmap:`
    - 遍历项：`for item in hashmap.items():`
+   
 4. 重复字符串只需乘以数字即可：`"a" * 2`
+
 5. 关于2 ** 31，可以用**位运算符**，`1<<31`
+
 6. 排序，`sorted(nums, key= lambda x: x[1])`，按照每一个迭代对象的第2个值进行排序
+
 7. 创建二维数组：`[[0] * n for i in range(n)]`
+
 8. 向后遍历：`for i in range(len(nums)-1,-1,-1)`
+
 9. 字符串判断：
 
    - 是否为数字：`"".isdigit`;
@@ -119,6 +127,28 @@ from singly_linked_list import ListNode
    - 是否为数字字母：`"".isalnum`;
 
 10. 申明全局变量：nonlocal
+
+11. 有序字典
+
+    ```python
+    from collections import OrderedDict()
+    
+    dict = OrderedDict()
+    # 插入
+    dict.put(key, value)
+    # 获取值
+    dict.get(key)
+    # 移动到最后一个
+    dict.move_to_end(key)
+    # 删除最后一个
+    dict.popitem()
+    # 删除第一个
+    dict.popitem(last=False)
+    ```
+
+    
+
+    
 
 
 
@@ -231,11 +261,13 @@ from singly_linked_list import ListNode
 | 131 | [分割回文串](./idea/131.md) | 回溯算法 | [Python](./Code/131.py) | Medium | 2020/2/23 | Y |
 | **133** | [克隆图](./idea/133.md) | 图、DFS | [Python](./Code/133.py) | Medium | 2020/2/23 | N |
 | 136 | [只出现一次的数字](./idea/136.md) | 哈希表、**位操作** | [Python](./Code/136.py) | Easy | 2020/2/13 | Y |
+| **137** | [只出现一次的数字II](./idea/137.md) | 位运算 | [Python](./Code/137.py) | Medium | 2020/2/24 | N |
 | **138** | [复制带随机指针的链表](./idea/138.md) | 链表 | [Python](./Code/138.py) | Medium | 2020/2/24 | Y |
 | 141 | [环形链表](./idea/141.md) | 单链表 | [Python](./Code/141.py) | Easy | 2020/2/4 | Y |
 | **142** | [环形链表II](./idea/142.md) | 单链表、**Floyd算法** | [Python](./Code/142.py) | Medium | 2020/2/23 | Y |
 | 143 | [重排链表](./idea/143.md) | 单链表、**递归** | [Python](./Code/143.py) | Medium | 2020/2/24 | Y |
 | 144 | [二叉树的前序遍历](./idea/144.md) | 二叉树、非递归 | [Python](./Code/144.py) | Medium | 2020/2/21 | Y |
+| 146 | [LRU的缓存机制](./idea/146.md) | 设计 | [Python](./Code/146.py) | Medium | 2020/2/25 | Y |
 | 155 | [最小栈](./idea/155.md) | 栈、设计 | [Python](./Code/155.py) | Easy | 2020/2/14 | Y |
 | **160** | [相交链表](./idea/160.md) | 单链表、哈希表、**双指针** | [Python](./Code/160.py) | Easy | 2020/2/14 | Y |
 | 167 | [两数之和 II - 输入有序数组](./idea/167.md) | 数组、哈希表、双指针 | [Python](./Code/167.py) | Easy | 2020/2/14 | Y |
