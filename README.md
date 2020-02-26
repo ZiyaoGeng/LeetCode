@@ -268,6 +268,7 @@ from singly_linked_list import ListNode
 | 143 | [重排链表](./idea/143.md) | 单链表、**递归** | [Python](./Code/143.py) | Medium | 2020/2/24 | Y |
 | 144 | [二叉树的前序遍历](./idea/144.md) | 二叉树、非递归 | [Python](./Code/144.py) | Medium | 2020/2/21 | Y |
 | 146 | [LRU的缓存机制](./idea/146.md) | 设计 | [Python](./Code/146.py) | Medium | 2020/2/25 | Y |
+| 147 | [对链表进行插入排序](./idea/147.md) | 单链表 | [Python](./Code/147.py) | Medium | 2020/2/26 | Y |
 | 150 | [逆波兰表达式求值](./idea/146.md) | 数学 | [Python](./Code/150.py) | Medium | 2020/2/25 | Y |
 | 155 | [最小栈](./idea/155.md) | 栈、设计 | [Python](./Code/155.py) | Easy | 2020/2/14 | Y |
 | **160** | [相交链表](./idea/160.md) | 单链表、哈希表、**双指针** | [Python](./Code/160.py) | Easy | 2020/2/14 | Y |

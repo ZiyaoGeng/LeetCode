@@ -18,5 +18,3 @@ class Solution:
     			else:
     				stack.append(int(n2 / n1))
     	return stack[0]
-
-print(-1//6)
