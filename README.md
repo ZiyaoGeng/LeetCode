@@ -256,6 +256,7 @@ from singly_linked_list import ListNode
 | 121 | [买卖股票的最佳时机](./idea/121.md) | 动态规划 | [Python](./Code/121.py) | Easy | 2020/2/13 | Y |
 | 122 | [买卖股票的最佳时机II](./idea/122.md) | 动态规划 | [Python](./Code/122.py) | Easy | 2020/2/13 | Y |
 | 125 | [验证回文串](./idea/125.md) | 字符串 | [Python](./Code/125.py) | Easy | 2020/2/13 | Y |
+| **127** | [单词接龙](./idea/127.md) | 图、BFS | [Python](./Code/127.py) | Medium | 2020/2/29 | Y |
 | 129 | [求根到叶子节点数字之和](./idea/129.md) | 二叉树、DFS | [Python](./Code/129.py) | Medium | 2020/2/21 | Y |
 | **130** | [被围绕的区域](./idea/130.md) | **图**、DFS | [Python](./Code/130.py) | Medium | 2020/2/22 | Y |
 | 131 | [分割回文串](./idea/131.md) | 回溯算法 | [Python](./Code/131.py) | Medium | 2020/2/23 | Y |
