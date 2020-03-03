@@ -1,17 +1,14 @@
 from typing import List
+
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-    	minP = [0] * len(nums)
-    	maxP = [0] * len(nums)
-    	for i in range(len(nums)-1, -1, -1):
-    		if i == len(nums) - 1:
-    			minP[i] = nums[i]
-    			maxP[i] = nums[i]
-    		else:
-    			num1 = nums[i] * minP[i+1]
-    			num2 = nums[i] * maxP[i+1]
-    			maxP[i] = max(num1, num2, nums[i], maxP[i+1])
-    			minP[i] = min(num1, nums[i], minP[i+1])
-    	return maxP[i]
-
-print(Solution().maxProduct([2,3,-2,4]))
+    	max_num, max_i, min_i = nums[0], 1, 1
+    	for i in range(len(nums)):
+    		if nums[i] < 0:
+    			tmp = max_i
+    			max_i = min_i
+    			min_i = tmp
+    		max_i = max(max_i*nums[i], nums[i])
+    		min_i = min(min_i*nums[i], nums[i])
+    		max_num = max(max_num, max_i)
+    	return max_num

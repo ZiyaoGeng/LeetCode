@@ -275,7 +275,7 @@ from singly_linked_list import ListNode
 | 148 | [排序链表](./idea/148.md) | 单链表、**归并** | [Python](./Code/148.py) | Medium | 2020/2/27 | Y |
 | 150 | [逆波兰表达式求值](./idea/146.md) | 数学 | [Python](./Code/150.py) | Medium | 2020/2/25 | Y |
 | 151 | [翻转字符串](./idea/151.md) | 字符串 | [Python](./Code/151.py) | Medium | 2020/3/1 | Y |
-| 152 |  | 动态规划 |  | Medium | 2020/3/2 | Y |
+| 152 | [乘积最大序列](./idea/152.md) | 动态规划 | [Python](./Code/152.py) | Medium | 2020/3/2 | Y |
 | 155 | [最小栈](./idea/155.md) | 栈、设计 | [Python](./Code/155.py) | Easy | 2020/2/14 | Y |
 | **160** | [相交链表](./idea/160.md) | 单链表、哈希表、**双指针** | [Python](./Code/160.py) | Easy | 2020/2/14 | Y |
 | 167 | [两数之和 II - 输入有序数组](./idea/167.md) | 数组、哈希表、双指针 | [Python](./Code/167.py) | Easy | 2020/2/14 | Y |
